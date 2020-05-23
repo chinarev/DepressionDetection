@@ -8,3 +8,5 @@ Detecting depression disorder
 4. Запустите файл "depresjon_model.ipynb" для обучения модели и получения результатов. 
 
 Так же на гитхабе можно найти файл "model.pkl" с нашей сохраненной моделью. 
+
+in collaboration with @01gaM
