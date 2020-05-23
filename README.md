@@ -9,4 +9,4 @@ Detecting depression disorder
 
 Так же на гитхабе можно найти файл "model.pkl" с нашей сохраненной моделью. 
 
-in collaboration with @01gaM
+In collaboration with @01gaM
