@@ -7,7 +7,8 @@ Detecting depression disorder
 3. Запустите файл "depresjon_preprocessing.ipynb". После этого будут сгенерированы новые таблицы.
 4. Запустите файл "depresjon_model.ipynb" для обучения модели и получения результатов. 
 
-Так же на гитхабе можно найти файл "model.pkl" с нашей сохраненной моделью. 
+Так же на гитхабе можно найти файл "model.pkl" с нашей сохраненной моделью.
+
 Необходимый набор инструментов см. в файле requirements.txt
 
 In collaboration with @01gaM
